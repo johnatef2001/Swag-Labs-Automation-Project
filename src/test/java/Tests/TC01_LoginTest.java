@@ -48,7 +48,7 @@ public class TC01_LoginTest {
         LogsUtils.info("The ValidLoginTC is passed");
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         quitDriver();
     }

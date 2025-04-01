@@ -49,7 +49,7 @@ public class TC03_CartTest {
         LogsUtils.info("the comparingPricesTC is passed");
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         quitDriver();
     }

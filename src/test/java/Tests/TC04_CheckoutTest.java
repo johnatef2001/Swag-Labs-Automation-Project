@@ -35,7 +35,7 @@ public class TC04_CheckoutTest {
     public TC04_CheckoutTest() throws FileNotFoundException {
     }
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setup() throws IOException {
         setupDriver(getPropertyValue("environment", "Browser"));
         LogsUtils.info("Edge driver is opened");
@@ -67,7 +67,7 @@ public class TC04_CheckoutTest {
         LogsUtils.info("the checkoutStepOneTC is passed");
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         quitDriver();
     }

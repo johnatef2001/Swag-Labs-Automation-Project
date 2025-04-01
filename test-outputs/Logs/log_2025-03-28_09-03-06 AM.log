@@ -1,0 +1,21 @@
+[INFO] 28-03-2025 09:03:06 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:37)] - Edge driver is opened
+[INFO] 28-03-2025 09:03:07 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:39)] - page redirected to the URL
+[INFO] 28-03-2025 09:03:11 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:53)] - Edge driver is opened
+[INFO] 28-03-2025 09:03:13 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:55)] - page redirected to the URL
+[INFO] 28-03-2025 09:03:13 [main] [Tests.TC02_LandingTest.addingRandomProductsToCartTC(TC02_LandingTest.java:73)] - The ValidLoginTC is started
+[INFO] 28-03-2025 09:03:13 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 1
+[INFO] 28-03-2025 09:03:22 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:53)] - Edge driver is opened
+[INFO] 28-03-2025 09:03:23 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:55)] - page redirected to the URL
+[INFO] 28-03-2025 09:03:23 [main] [Tests.TC02_LandingTest.checkingNumberOfSelectedProductsTC(TC02_LandingTest.java:64)] - The ValidLoginTC is started
+[INFO] 28-03-2025 09:03:23 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products 0
+[ERROR] 28-03-2025 09:03:28 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:47)] - Expected condition failed: waiting for visibility of element located by By.className: shopping_cart_badge (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.85, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52043}, msedge: {msedgedriverVersion: 134.0.3124.93 (a9facff5fd6c..., userDataDir: C:\Users\oem\AppData\Local\...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52043/devtoo..., se:cdpVersion: 134.0.3124.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2394743c20bd9a92d1f92cecb5c71515
+[INFO] 28-03-2025 09:03:28 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - selected Products : 0
+[INFO] 28-03-2025 09:03:28 [main] [Tests.TC02_LandingTest.checkingNumberOfSelectedProductsTC(TC02_LandingTest.java:68)] - The ValidLoginTC is passed
+[INFO] 28-03-2025 09:03:31 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:53)] - Edge driver is opened
+[INFO] 28-03-2025 09:03:33 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:55)] - page redirected to the URL
+[INFO] 28-03-2025 09:03:33 [main] [Tests.TC02_LandingTest.clickOnCartIcon(TC02_LandingTest.java:82)] - The ValidLoginTC is started

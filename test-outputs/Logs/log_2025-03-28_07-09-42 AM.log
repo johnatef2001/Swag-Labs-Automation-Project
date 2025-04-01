@@ -1,0 +1,6 @@
+[INFO] 28-03-2025 07:09:42 [main] [Tests.TC06_FinishingOrderTC.setup(TC06_FinishingOrderTC.java:38)] - Edge driver is opened
+[INFO] 28-03-2025 07:09:43 [main] [Tests.TC06_FinishingOrderTC.setup(TC06_FinishingOrderTC.java:40)] - page redirected to the URL
+[INFO] 28-03-2025 07:09:44 [main] [Tests.TC06_FinishingOrderTC.finishOrderTC(TC06_FinishingOrderTC.java:48)] - The ValidLoginTC is started
+[INFO] 28-03-2025 07:09:45 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products 6
+[INFO] 28-03-2025 07:09:47 [main] [Tests.TC06_FinishingOrderTC.finishOrderTC(TC06_FinishingOrderTC.java:62)] - ftest-2025-09-28-7-9-32AM ltest-2025-09-28-7-9-32AM 26014
+[INFO] 28-03-2025 07:09:48 [main] [Tests.TC06_FinishingOrderTC.finishOrderTC(TC06_FinishingOrderTC.java:66)] - the checkoutStepTwoTC is passed

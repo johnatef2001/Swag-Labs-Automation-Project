@@ -1,0 +1,5 @@
+[INFO] 30-03-2025 15:57:04 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:30)] - null
+[INFO] 30-03-2025 15:57:10 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:32)] - Edge driver is opened
+[INFO] 30-03-2025 15:57:12 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:34)] - page redirected to the URL
+[INFO] 30-03-2025 15:57:12 [main] [Tests.TC01_LoginTest.validLoginTC(TC01_LoginTest.java:42)] - The ValidLoginTC is started
+[INFO] 30-03-2025 15:57:13 [main] [Tests.TC01_LoginTest.validLoginTC(TC01_LoginTest.java:48)] - The ValidLoginTC is passed

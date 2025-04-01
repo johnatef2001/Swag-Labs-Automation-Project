@@ -1,0 +1,8 @@
+[INFO] 27-03-2025 17:42:32 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:38)] - Edge driver is opened
+[INFO] 27-03-2025 17:42:33 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:40)] - page redirected to the URL
+[INFO] 27-03-2025 17:42:33 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:48)] - The ValidLoginTC is started
+[INFO] 27-03-2025 17:42:34 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products 6
+[INFO] 27-03-2025 17:42:36 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:62)] - ftest-2025-42-27-5-42-28PM ltest-2025-42-27-5-42-28PM 95654
+[INFO] 27-03-2025 17:42:36 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:34)] - calculated Total price:140.34
+[INFO] 27-03-2025 17:42:36 [main] [Pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:29)] - Actual Total price:140.34
+[INFO] 27-03-2025 17:42:36 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:64)] - the checkoutStepTwoTC is passed

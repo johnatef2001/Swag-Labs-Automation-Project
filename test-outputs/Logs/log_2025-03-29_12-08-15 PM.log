@@ -1,0 +1,6 @@
+[INFO] 29-03-2025 12:08:15 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:34)] - Edge driver is opened
+[INFO] 29-03-2025 12:08:16 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:36)] - page redirected to the URL
+[INFO] 29-03-2025 12:08:22 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:50)] - Edge driver is opened
+[INFO] 29-03-2025 12:08:23 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:52)] - page redirected to the URL
+[INFO] 29-03-2025 12:08:25 [main] [Tests.TC02_LandingTest.clickOnCartIcon(TC02_LandingTest.java:80)] - The ValidLoginTC is started
+[INFO] 29-03-2025 12:08:25 [main] [Tests.TC02_LandingTest.clickOnCartIcon(TC02_LandingTest.java:83)] - The ValidLoginTC is passed

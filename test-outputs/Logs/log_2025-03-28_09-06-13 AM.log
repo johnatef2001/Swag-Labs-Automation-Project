@@ -1,0 +1,22 @@
+[INFO] 28-03-2025 09:06:13 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:37)] - Edge driver is opened
+[INFO] 28-03-2025 09:06:13 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:39)] - page redirected to the URL
+[INFO] 28-03-2025 09:06:20 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:53)] - Edge driver is opened
+[INFO] 28-03-2025 09:06:25 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:55)] - page redirected to the URL
+[INFO] 28-03-2025 09:06:26 [main] [Tests.TC02_LandingTest.addingRandomProductsToCartTC(TC02_LandingTest.java:74)] - The ValidLoginTC is started
+[INFO] 28-03-2025 09:06:26 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 2
+[INFO] 28-03-2025 09:06:26 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 5
+[INFO] 28-03-2025 09:06:26 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 6
+[INFO] 28-03-2025 09:06:26 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart:3
+[INFO] 28-03-2025 09:06:26 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - selected Products : 3
+[INFO] 28-03-2025 09:06:26 [main] [Tests.TC02_LandingTest.addingRandomProductsToCartTC(TC02_LandingTest.java:78)] - The ValidLoginTC is passed
+[INFO] 28-03-2025 09:06:30 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:53)] - Edge driver is opened
+[INFO] 28-03-2025 09:06:31 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:55)] - page redirected to the URL
+[INFO] 28-03-2025 09:06:32 [main] [Tests.TC02_LandingTest.checkingNumberOfSelectedProductsTC(TC02_LandingTest.java:65)] - The ValidLoginTC is started
+[INFO] 28-03-2025 09:06:32 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products 6
+[INFO] 28-03-2025 09:06:33 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart:6
+[INFO] 28-03-2025 09:06:33 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - selected Products : 6
+[INFO] 28-03-2025 09:06:33 [main] [Tests.TC02_LandingTest.checkingNumberOfSelectedProductsTC(TC02_LandingTest.java:69)] - The ValidLoginTC is passed
+[INFO] 28-03-2025 09:06:37 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:53)] - Edge driver is opened
+[INFO] 28-03-2025 09:06:38 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:55)] - page redirected to the URL
+[INFO] 28-03-2025 09:06:38 [main] [Tests.TC02_LandingTest.clickOnCartIcon(TC02_LandingTest.java:83)] - The ValidLoginTC is started
+[INFO] 28-03-2025 09:06:39 [main] [Tests.TC02_LandingTest.clickOnCartIcon(TC02_LandingTest.java:86)] - The ValidLoginTC is passed

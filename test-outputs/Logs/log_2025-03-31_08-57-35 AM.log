@@ -1,0 +1,56 @@
+[INFO] 31-03-2025 08:57:35 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:30)] - chrome
+[INFO] 31-03-2025 08:57:49 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:32)] - Edge driver is opened
+[INFO] 31-03-2025 08:57:51 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:34)] - page redirected to the URL
+[INFO] 31-03-2025 08:57:51 [main] [Tests.TC01_LoginTest.validLoginTC(TC01_LoginTest.java:42)] - The ValidLoginTC is started
+[INFO] 31-03-2025 08:57:52 [main] [Tests.TC01_LoginTest.validLoginTC(TC01_LoginTest.java:48)] - The ValidLoginTC is passed
+[INFO] 31-03-2025 08:57:54 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:34)] - Edge driver is opened
+[INFO] 31-03-2025 08:57:56 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:36)] - page redirected to the URL
+[INFO] 31-03-2025 08:57:59 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:50)] - Edge driver is opened
+[INFO] 31-03-2025 08:58:06 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:52)] - page redirected to the URL
+[INFO] 31-03-2025 08:58:07 [main] [Tests.TC02_LandingTest.addingRandomProductsToCartTC(TC02_LandingTest.java:71)] - The ValidLoginTC is started
+[INFO] 31-03-2025 08:58:07 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 1
+[INFO] 31-03-2025 08:58:07 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 2
+[INFO] 31-03-2025 08:58:07 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 6
+[INFO] 31-03-2025 08:58:07 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart:3
+[INFO] 31-03-2025 08:58:07 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - selected Products : 3
+[INFO] 31-03-2025 08:58:07 [main] [Tests.TC02_LandingTest.addingRandomProductsToCartTC(TC02_LandingTest.java:75)] - The ValidLoginTC is passed
+[INFO] 31-03-2025 08:58:10 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:50)] - Edge driver is opened
+[INFO] 31-03-2025 08:58:12 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:52)] - page redirected to the URL
+[INFO] 31-03-2025 08:58:13 [main] [Tests.TC02_LandingTest.checkingNumberOfSelectedProductsTC(TC02_LandingTest.java:62)] - The ValidLoginTC is started
+[INFO] 31-03-2025 08:58:13 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products 6
+[INFO] 31-03-2025 08:58:14 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart:6
+[INFO] 31-03-2025 08:58:14 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - selected Products : 6
+[INFO] 31-03-2025 08:58:14 [main] [Tests.TC02_LandingTest.checkingNumberOfSelectedProductsTC(TC02_LandingTest.java:66)] - The ValidLoginTC is passed
+[INFO] 31-03-2025 08:58:17 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:50)] - Edge driver is opened
+[INFO] 31-03-2025 08:58:18 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:52)] - page redirected to the URL
+[INFO] 31-03-2025 08:58:19 [main] [Tests.TC02_LandingTest.clickOnCartIcon(TC02_LandingTest.java:80)] - The ValidLoginTC is started
+[INFO] 31-03-2025 08:58:19 [main] [Tests.TC02_LandingTest.clickOnCartIcon(TC02_LandingTest.java:83)] - The ValidLoginTC is passed
+[INFO] 31-03-2025 08:58:22 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:30)] - Edge driver is opened
+[INFO] 31-03-2025 08:58:23 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:32)] - page redirected to the URL
+[INFO] 31-03-2025 08:58:23 [main] [Tests.TC03_CartTest.comparingPricesTC(TC03_CartTest.java:40)] - The ValidLoginTC is started
+[INFO] 31-03-2025 08:58:24 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 3
+[INFO] 31-03-2025 08:58:24 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 4
+[INFO] 31-03-2025 08:58:24 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 6
+[INFO] 31-03-2025 08:58:24 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:90)] - Total Price0.0
+[INFO] 31-03-2025 08:58:24 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:90)] - Total Price15.99
+[INFO] 31-03-2025 08:58:24 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:90)] - Total Price65.98
+[INFO] 31-03-2025 08:58:25 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:32)] - Total Price0.0
+[INFO] 31-03-2025 08:58:25 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:32)] - Total Price15.99
+[INFO] 31-03-2025 08:58:25 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:32)] - Total Price65.98
+[INFO] 31-03-2025 08:58:25 [main] [Tests.TC03_CartTest.comparingPricesTC(TC03_CartTest.java:49)] - the comparingPricesTC is passed
+[INFO] 31-03-2025 08:58:28 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:41)] - Edge driver is opened
+[INFO] 31-03-2025 08:58:29 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:43)] - page redirected to the URL
+[INFO] 31-03-2025 08:58:29 [main] [Tests.TC04_CheckoutTest.checkoutStepOneTC(TC04_CheckoutTest.java:51)] - The ValidLoginTC is started
+[INFO] 31-03-2025 08:58:29 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 2
+[INFO] 31-03-2025 08:58:30 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 5
+[INFO] 31-03-2025 08:58:30 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 6
+[INFO] 31-03-2025 08:58:31 [main] [Tests.TC04_CheckoutTest.checkoutStepOneTC(TC04_CheckoutTest.java:65)] - ftest-2025-57-31-8-57-34AM ltest-2025-57-31-8-57-34AM 00823
+[INFO] 31-03-2025 08:58:31 [main] [Tests.TC04_CheckoutTest.checkoutStepOneTC(TC04_CheckoutTest.java:67)] - the checkoutStepOneTC is passed
+[INFO] 31-03-2025 08:58:33 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:38)] - Edge driver is opened
+[INFO] 31-03-2025 08:58:35 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:40)] - page redirected to the URL
+[INFO] 31-03-2025 08:58:35 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:48)] - The ValidLoginTC is started
+[INFO] 31-03-2025 08:58:36 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products 6
+[INFO] 31-03-2025 08:58:37 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:62)] - ftest-2025-57-31-8-57-34AM ltest-2025-57-31-8-57-34AM 04312
+[INFO] 31-03-2025 08:58:37 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:34)] - calculated Total price:140.34
+[INFO] 31-03-2025 08:58:38 [main] [Pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:29)] - Actual Total price:140.34
+[INFO] 31-03-2025 08:58:38 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:64)] - the checkoutStepTwoTC is passed

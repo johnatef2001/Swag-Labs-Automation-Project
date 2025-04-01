@@ -1,0 +1,7 @@
+[INFO] 27-03-2025 17:38:30 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:38)] - Edge driver is opened
+[INFO] 27-03-2025 17:38:31 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:40)] - page redirected to the URL
+[INFO] 27-03-2025 17:38:32 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:48)] - The ValidLoginTC is started
+[INFO] 27-03-2025 17:38:33 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 3
+[INFO] 27-03-2025 17:38:33 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 5
+[INFO] 27-03-2025 17:38:33 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:67)] - randomNumber 6
+[INFO] 27-03-2025 17:38:34 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:62)] - ftest-2025-37-27-5-37-52PM ltest-2025-37-27-5-37-52PM 77414
